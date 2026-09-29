@@ -1,4 +1,4 @@
-- Sophomore CS student at UW-Madison
+- Senior at UW-Madison studying CS
 
 <!---
 parkerjk/parkerjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
